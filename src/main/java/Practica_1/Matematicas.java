@@ -15,11 +15,5 @@ public class Matematicas {
             if (x * x + y * y <= 1) dentro++;
         }
         return 4.0 * dentro / pasos;
-
     }
-
-
-
-
-
 }
