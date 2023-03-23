@@ -4,8 +4,8 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="2c0a591d-99cc-4389-9a85-7b1cf18a7b1a" name="Changes" comment="Editado la clase Principal">
-      <change beforePath="$PROJECT_DIR$/src/main/java/Practica_1/Principal.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/Practica_1/Principal.java" afterDir="false" />
+    <list default="true" id="2c0a591d-99cc-4389-9a85-7b1cf18a7b1a" name="Changes" comment="Creados metodos Tablero">
+      <change beforePath="$PROJECT_DIR$/src/main/java/Practica_2/Main.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/Practica_2/Main.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -58,7 +58,7 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1679594334158</updated>
-      <workItem from="1679594335707" duration="2956000" />
+      <workItem from="1679594335707" duration="4694000" />
     </task>
     <task id="LOCAL-00001" summary="Creaccion de clases">
       <created>1679595062396</created>
@@ -88,7 +88,35 @@
       <option name="project" value="LOCAL" />
       <updated>1679597207591</updated>
     </task>
-    <option name="localTasksCounter" value="5" />
+    <task id="LOCAL-00005" summary="Terminado mas o menos el ejercicio 1">
+      <created>1679597699842</created>
+      <option name="number" value="00005" />
+      <option name="presentableId" value="LOCAL-00005" />
+      <option name="project" value="LOCAL" />
+      <updated>1679597699842</updated>
+    </task>
+    <task id="LOCAL-00006" summary="Creado las clases">
+      <created>1679597775462</created>
+      <option name="number" value="00006" />
+      <option name="presentableId" value="LOCAL-00006" />
+      <option name="project" value="LOCAL" />
+      <updated>1679597775462</updated>
+    </task>
+    <task id="LOCAL-00007" summary="Creado arrays">
+      <created>1679598568152</created>
+      <option name="number" value="00007" />
+      <option name="presentableId" value="LOCAL-00007" />
+      <option name="project" value="LOCAL" />
+      <updated>1679598568152</updated>
+    </task>
+    <task id="LOCAL-00008" summary="Creados metodos Tablero">
+      <created>1679598965819</created>
+      <option name="number" value="00008" />
+      <option name="presentableId" value="LOCAL-00008" />
+      <option name="project" value="LOCAL" />
+      <updated>1679598965819</updated>
+    </task>
+    <option name="localTasksCounter" value="9" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -99,6 +127,10 @@
     <MESSAGE value="Realizado metodo en clase matematicas" />
     <MESSAGE value="Editado la clase Matematicas" />
     <MESSAGE value="Editado la clase Principal" />
-    <option name="LAST_COMMIT_MESSAGE" value="Editado la clase Principal" />
+    <MESSAGE value="Terminado mas o menos el ejercicio 1" />
+    <MESSAGE value="Creado las clases" />
+    <MESSAGE value="Creado arrays" />
+    <MESSAGE value="Creados metodos Tablero" />
+    <option name="LAST_COMMIT_MESSAGE" value="Creados metodos Tablero" />
   </component>
 </project>
