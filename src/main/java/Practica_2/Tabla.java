@@ -9,10 +9,25 @@ public class Tabla {
         tablaActual = new int[dimension][dimension];
         for (int i = 0; i < dimension; i++) {
             for (int j = 0; j < dimension; j++) {
-                System.out.print(tablaActual[i][j] + "");
+                System.out.print(tablaActual[i][j] + " ");
+
             }
         }
     }
+
+    public void estadoSiguiente() {
+        for (int i = 0; i < dimension; i++) {
+            for (int j = 0; j < dimension; j++) {
+                System.out.print(tablaSiguiente[i][j] + " ");
+            }
+        }
+    }
+
+
+
+
+
+
 
 
 
